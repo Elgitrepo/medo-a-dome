@@ -1,0 +1,32 @@
+DOMAINS: 
+
+https://subdominio.saboramalaga.es
+https://test1-saboramalaga.es
+https://test2saboramalaga.es
+http://saboramalaga.es?param1=33
+http://saboramalaga.es/a1/init.html
+El dominio test3.malaga.es hay que ver si lo detecta
+saboramalaga.es.analysiq.com.Clase1.java
+
+IPS: ips o rangos de ellas (en algun caso he visto 1.2.3.)
+200.36.161.148
+201.166.137.1
+201.166.137.23
+201.166.137.234
+1.2.3.4
+1.2.3.28
+1.2.3.29
+Si viene 1.2,3-4 probar a ver si se detecta como una ip
+217.12.17.31
+217.12.17.32
+
+PEOPLE:
+presidencia@malaga.es
+mi-presidencia@malaga.es
+no debe detectar juan carlos moreno, malaga es una ciudad
+Este texto presidencia malaga.es no es un mail
+Esto son dominios sevilla.es, malaga.es pero no direcciones de correo
+
+AMA - Github - Nuevo Modelo UrlsIPs:
+3000000475	amadeus.net
+3000000475	171.17.255.
